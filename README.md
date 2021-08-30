@@ -1,6 +1,7 @@
 # Hey there 👋
 
 I'm a fullstack developer, studying Automatics & Robotics at the AGH UST so as not to get bored with standard reserach fields for programming.
+If you want to read a bit more, take a look at [my website](https://artus9033.now.sh) or play a Rust-WASM-React Game of Life implementation with tone synthesization [on the website as well](https://artus9033.now.sh/game-of-life).
 
 <br/>
 
@@ -25,3 +26,9 @@ I'm a fullstack developer, studying Automatics & Robotics at the AGH UST so as n
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/artus9033/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Contact%20me%20via%20email-brightgreen?&style=for-the-badge" />](mailto:artus9033@gmail.com)
+
+<br/>
+
+# Miscellanous stuff
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=artus9033&layout=compact)
