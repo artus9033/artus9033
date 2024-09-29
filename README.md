@@ -1,10 +1,10 @@
 # Hey there 👋
 
-I'm a React Native & React developer, MEng in Automatics & Robotics, major in IT in Control & Management @ AGH UST in Cracow, Poland.
+I'm a React Native & React developer, a PhD candidate @ AGH University of Krakow, MEng (honours) in Automation & Robotics, major in IT in Control & Management. Experience in cross-platform mobile apps, web apps, native, full-stack, low-level, ML, AI & computer vision.
 
 My typical stack is TS, JS w/o React / React Native, however my stack is quite large and ranges from native mobile development in Kotlin, Java & Swift through Python for robotics, computer vision, data science & AI, C# / .NET for backends and native desktop apps, C++ for both NodeJS modules, miscellanous applications & for microcontrollers.
 
-If you want to read a bit more, take a look at [my website](https://artus9033.now.sh) or play a Rust-WASM-React Game of Life implementation with tone synthesization [on the website as well](https://artus9033.now.sh/game-of-life).
+If you want to read a bit more, take a look at [my website](https://artus9033.now.sh), take a look at [my ORCID](https://orcid.org/0000-0002-2137-8841) or play a Rust-WASM-React Game of Life implementation with tone synthesization [on the website as well](https://artus9033.now.sh/game-of-life).
 
 ---
 
