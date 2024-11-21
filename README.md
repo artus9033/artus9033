@@ -8,17 +8,20 @@ If you want to read a bit more, take a look at [my website](https://artus9033.no
 
 ---
 
-<details>
-  <summary><h3>My code stats 👨‍💻</h3></summary>
-  <div align="center">
-    <img
+<img
       alt="artus9033's GitHub stats"
       height="200em"
       src="https://github-readme-stats.vercel.app/api?username=artus9033&show_icons=true&custom_title=GitHub%20Stats&theme=dracula">
-    <img
+<img
       alt="artus9033's Top Languages"
       height="200em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=artus9033&layout=compact&custom_title=Most%20used%20GH%20languages&theme=dracula">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=artus9033&layout=compact&custom_title=artus9033%27s%20Top%20Languages&theme=dracula&exclude_repo=DA2023&size_weight=0.5&count_weight=0.5&hide=HTML&langs_count=8">
+
+<em>(*) chart excluding raw HTML 😉</em>
+
+<details>
+  <summary><h3>My wakatime stats 👨‍💻</h3></summary>
+  <div align="center">
     <img
       alt="WakaTime Stats"
       height="200em"
