@@ -8,6 +8,8 @@ If you want to read a bit more, take a look at [my website](https://artus9033.no
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=artus9033&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img
       alt="artus9033's GitHub stats"
       height="200em"
